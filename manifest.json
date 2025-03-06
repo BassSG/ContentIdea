@@ -1,9 +1,9 @@
 {
-  "name": "Trip-Planner",
+  "name": "Creator Thinking",
   "short_name": "Creator Thinking",
   "description": "วางแผนธุรกิจของคุณ",
   "start_url": "https://script.google.com/macros/s/AKfycbyXdMff9wNmLPRrrgn3euHJG19o_Ij_vw0t1svSYSaJIf393FXCKDrTbFN2X_ewCfMV/exec/index.html",
-  "display": "browser",
+  "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
   "icons": [
